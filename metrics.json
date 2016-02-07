@@ -1,0 +1,10 @@
+{
+    "EXAMPLE_ICON_METRIC": {
+       "defaultAggregate": "max",
+       "defaultResolutionMS": 1000,
+       "description": "Example Icon Metric",
+       "displayName": "Icon Metric",
+       "displayNameShort": "Icon Metric",
+       "unit": "number"
+    }
+}
