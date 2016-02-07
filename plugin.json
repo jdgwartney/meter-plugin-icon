@@ -5,7 +5,7 @@
   "unsupportedPlatforms" : [ ],
   "tags" : "sinewave",
   "description": "Plugin that has an icon name set by icon field",
-  "icon": "icon.png",
+  "icon": "test-paper-icon.png",
   "command": "python plugin.py",
   "metrics": [
     "EXAMPLE_ICON_METRIC"
